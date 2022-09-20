@@ -10,3 +10,7 @@
 
 **ViewModel**
 *ViewModel is located between the View and Model layers. This is where the controls for interacting with View are housed, while binding is used to connect the UI elements in View to the controls in ViewModel.*
+
+
+The code is Clean, Well constructed, easy-to-follow and commented.
+Proper separation of concerns and best-practice coding patterns have been used in the project. 
